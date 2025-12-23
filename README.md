@@ -167,7 +167,7 @@ I don't just upload source code to GitHub and call it done. When I build somethi
 
 <!-- Stats Cards Side by Side -->
 <a href="https://github.com/Mikky-mlh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mikky-mlh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mikky-mlh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&cache_seconds=1800"/>
 </a>
 <a href="https://github.com/Mikky-mlh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikky-mlh&layout=compact&theme=tokyonight&hide=jupyter%20notebook&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
