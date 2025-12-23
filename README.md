@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Mikky! 👋
 
-<!--
-**Mikky-mlh/Mikky-mlh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### 🚀 About Me
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### 🛠 Tech Stack
+![My Skills](https://skillicons.dev/icons?i=js,python,react,github,vscode,html,css)
+
+### 📊 My GitHub Stats
+![Mikky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikky-mlh&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikky-mlh&layout=compact&theme=radical)
+
+---
+*Generated with ❤️ for Mikky-mlh*
