@@ -134,13 +134,81 @@ I don't just upload source code to GitHub and call it done. When I build somethi
 
 <div align="center">
 
-### Languages I Actually Use
+### 🛠️ Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,git,vscode&theme=dark" />
+<div align="center">
+  
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      <br>Flask
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>SQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
+      <br>IntelliJ
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+    </td>
+    <td align="center" width="96">
+    </td>
+  </tr>
+</table>
 
 </div>
+</div>
 
-<br/>
+---
 
 **My philosophy:** Master fundamentals deeply, then stack technologies on top.
 
