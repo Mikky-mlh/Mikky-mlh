@@ -216,7 +216,7 @@ I don't just upload source code to GitHub and call it done. When I build somethi
 **Looking for collaborators, feedback, or just want to discuss tech?**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-6366F1?style=for-the-badge)](https://github.com/Mikky-mlh)
-[![Email](https://img.shields.io/badge/Email-Click_Here-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Click_Here-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvrajsarathe07@gmail.com)
 
 <br/>
 
