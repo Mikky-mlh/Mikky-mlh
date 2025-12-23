@@ -10,7 +10,6 @@
 
 <a href="https://www.linkedin.com/in/yuvraj-sarathe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /></a><a href="https://github.com/Mikky-mlh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" /></a><a href="https://leetcode.com/u/Mikky_mlh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" /></a></div>
 
-<br/><br/>
 
 </div>
 
