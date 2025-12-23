@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- Hero Section with Gradient Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=300&section=header&text=Yuvraj%20Sarathe&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 
-<!-- Animated Tagline -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=I+don't+just+write+code;I+ship+production-ready+executables" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=I+don't+just+write+code;I+ship+production-ready+executables;Patterns+are+learned,+not+discovered" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social Badges -->
 <a href="https://www.linkedin.com/in/yuvraj-sarathe">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
 </a>
@@ -21,9 +18,21 @@
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" />
 </a>
 
+<br/><br/>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mikky-mlh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</a>
+
 </div>
 
-<br/>
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/Mikky-mlh/Mikky-mlh/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
@@ -33,7 +42,7 @@
 
 I don't just upload source code to GitHub and call it done. When I build something, I package it:
 
-- **Bundled JRE** with Java games (no "install Java 17 first" bullshit)
+- **Bundled JRE** with Java games (no "install Java 17 first" friction)
 - **Standalone .exe files** for Python projects (click and play, no terminal)
 - **Production-grade UX** (ANSI colors, adaptive graphics, input validation)
 
@@ -43,7 +52,7 @@ I don't just upload source code to GitHub and call it done. When I build somethi
 
 ## 🚀 Projects That Actually Work
 
-### 🎮 Production Games (Not Tutorials)
+### 🎮 Production Games
 
 <table>
 <tr>
@@ -75,24 +84,33 @@ I don't just upload source code to GitHub and call it done. When I build somethi
 </table>
 
 <details>
-<summary><b>🎲 More Production Games (Click to expand)</b></summary>
-
+<summary><b>🎲 Click to see More Production Games (C++ & Python)</b></summary>
 <br/>
+
+<table>
+<tr>
+<td width="50%">
 
 #### [Tic-Tac-Toe in C++](https://github.com/Mikky-mlh/Tic-Tac-Toe-in-CPP)
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 
 - 🖥️ **Windows Console API** for colored ASCII art
-- 🤖 **Random-logic AI opponent** (not just picking first empty cell)
+- 🤖 **Random-logic AI opponent**
 - ⚡ **Fast compilation** using modern C++17
+
+</td>
+<td width="50%">
 
 #### [Guess The Number](https://github.com/Mikky-mlh/GuessTheNumberGame)
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
 - 🖼️ **Tkinter GUI** (not CLI garbage)
-- 💡 **Smart hint system** (contextual, not just "higher/lower")
-- 🛡️ **Input validation** catches everything before it breaks
+- 💡 **Smart hint system** (contextual)
+- 🛡️ **Input validation** catches everything
 
+</td>
+</tr>
+</table>
 </details>
 
 ---
@@ -108,9 +126,8 @@ I don't just upload source code to GitHub and call it done. When I build somethi
 
 **Pattern-first learning approach:**
 - 🧠 Learn patterns, not memorize solutions
-- 📈 Improved acceptance rate from 52.9% → 64.52%
-- 🔄 Multiple solutions per problem (optimization mindset)
-- 📝 Time/space complexity analysis for every solution
+- 📈 Improved acceptance rate: 52.9% → 64.52%
+- 🔄 Multiple solutions per problem (optimization)
 
 </td>
 <td width="50%">
@@ -119,10 +136,9 @@ I don't just upload source code to GitHub and call it done. When I build somethi
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 
 **Production-grade web design:**
-- 📱 Fully responsive (mobile-first approach)
+- 📱 Fully responsive (mobile-first)
 - 🎨 Pure CSS art experiments
 - ✅ Tribute pages with research depth
-- 📋 Functional survey forms
 
 </td>
 </tr>
@@ -130,15 +146,11 @@ I don't just upload source code to GitHub and call it done. When I build somethi
 
 ---
 
-## 🛠️ Tech Stack & Philosophy
+## 🛠️ Tech Stack & Analytics
 
 <div align="center">
 
-### 🛠️ Languages & Tools
-
-<div align="center">
-  
-<table align="center">
+<table>
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
@@ -173,107 +185,58 @@ I don't just upload source code to GitHub and call it done. When I build somethi
       <br>Flask
     </td>
   </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>SQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
-      <br>IntelliJ
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-    </td>
-    <td align="center" width="96">
-    </td>
-  </tr>
 </table>
 
-</div>
-</div>
+<br/>
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mikky-mlh&theme=tokyonight" />
 
-**My philosophy:** Master fundamentals deeply, then stack technologies on top.
+<br/>
 
-- **Java** → Core DSA and production-grade applications (explicit typing teaches precision)
-- **Python** → Rapid prototyping and NumPy-powered game logic (fast iteration)
-- **C++** → Low-level understanding and performance optimization (teaches memory management)
-- **HTML/CSS** → Building blocks of web (responsive design, accessibility, semantic HTML)
+<table>
+<tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mikky-mlh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&cache_seconds=1800" />
+</td>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikky-mlh&layout=compact&theme=tokyonight&hide=jupyter%20notebook&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" />
+</td>
+</tr>
+</table>
 
-<div align="center">
-
-### Current Focus Areas
-
-<img src="https://img.shields.io/badge/DSA-Pattern--Based_Learning-6366F1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Web_Dev-JavaScript_&_React-61DAFB?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/Backend-Flask_&_SQL-000000?style=for-the-badge&logo=flask" />
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- Stats Cards Side by Side -->
-<a href="https://github.com/Mikky-mlh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mikky-mlh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&cache_seconds=1800"/>
-</a>
-<a href="https://github.com/Mikky-mlh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikky-mlh&layout=compact&theme=tokyonight&hide=jupyter%20notebook&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
-</a>
-
-<br/><br/>
-
-<!-- Contribution Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mikky-mlh&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mikky-mlh&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
 
 </div>
 
 ---
 
-## 💭 Philosophy
+## 🎯 Career & Roadmap
 
 <div align="center">
 
 ### *"Patterns are learned, not discovered. Solutions are earned, not copied."*
 
-**What this means:** I don't randomly try approaches hoping something works. I study proven patterns from resources, understand WHY they work, then implement them independently. This builds real problem-solving skills, not just "LeetCode accept" muscle memory.
-
 </div>
-
----
-
-## 🎯 What I'm Building Toward
 
 **Current trajectory:** Self-taught full-stack engineer targeting ₹20-35 LPA off-campus roles by 2028.
 
-**Why this matters:** I'm not waiting for campus placements or formal CS education. I'm building a portfolio of WORKING projects that prove I can ship production-grade software. Companies don't care about degrees when you show up with bundled executables and deployed web apps.
+**Why this matters:** I'm not waiting for campus placements. I'm building a portfolio of WORKING projects.
 
-**Roadmap:**
-- ✅ Phase 1: HTML/CSS/Java DSA foundations (Nov-Dec 2025) → 90% complete
-- 🔄 Phase 2: JavaScript/React fundamentals (Jan-Feb 2026)
-- ⏳ Phase 3: Flask/Docker/AWS (Mar-Jun 2026)
-- ⏳ Phase 4: Full-stack integration + System Design (Jul-Oct 2026)
-- ⏳ Phase 5: ML fundamentals + Interview prep (Oct 2026-Aug 2028)
+<details>
+<summary><b>📅 View Detailed Roadmap (2025 - 2028)</b></summary>
+
+- ✅ **Phase 1: Foundations** (Nov-Dec 2025) 
+  - HTML/CSS/Java DSA foundations → 90% complete
+- 🔄 **Phase 2: Frontend** (Jan-Feb 2026)
+  - JavaScript/React fundamentals
+- ⏳ **Phase 3: Backend & DevOps** (Mar-Jun 2026)
+  - Flask/Docker/AWS
+- ⏳ **Phase 4: Integration** (Jul-Oct 2026)
+  - Full-stack integration + System Design
+- ⏳ **Phase 5: Mastery** (Oct 2026-Aug 2028)
+  - ML fundamentals + Interview prep
+
+</details>
 
 ---
 
@@ -281,18 +244,9 @@ I don't just upload source code to GitHub and call it done. When I build somethi
 
 ### 📫 Let's Connect
 
-**Looking for collaborators, feedback, or just want to discuss tech?**
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-6366F1?style=for-the-badge)](https://github.com/Mikky-mlh)
 [![Email](https://img.shields.io/badge/Email-Click_Here-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvrajsarathe07@gmail.com)
 
-<br/>
-
-⭐ **Star my repos if you find them useful!**
-
-*Last updated: December 23, 2025*
-
 </div>
 
-<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" />
