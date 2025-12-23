@@ -3,8 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi,%20I'm%20Yuvraj%20Sarathe&fontSize=50&animation=fadeIn&fontAlignY=38&descAlignY=55&descAlign=50" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Polyglot+Developer+(Java,+Python,+C%2B%2B);Building+Production-Ready+Games;Pattern-First+DSA+Learner;Solutions+are+earned,+not+copied." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Polyglot+Software+Engineer;Building+Production-Ready+Games;Pattern-First+DSA+Learner;Solutions+are+earned,+not+copied." alt="Typing SVG" />
   </a>
+
+  <br/>
 
   <br/>
 
