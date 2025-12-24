@@ -18,7 +18,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/Mikky-mlh/Mikky-mlh/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Mikky-mlh/Mikky-mlh/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
