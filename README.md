@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=280&section=header&text=Yuvraj%20Sarathe&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Polyglot%20Developer%20%7C%20Production-First%20Mindset%20%7C%20Pattern-Based%20Learning&descAlignY=55&descAlign=50&descSize=18" />
 
-<!-- Smooth Typing Subtitle with your Clauses -->
+<!-- Smooth Typing Subtitle -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1500&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=50&lines=Polyglot+Programmer;Full-Stack+Architect;Efficiency+Obsessed;I+ship+production-ready+executables" alt="Typing SVG" />
 </a>
@@ -12,8 +12,9 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/yuvraj-sarathe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /></a><a href="https://github.com/Mikky-mlh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" /></a><a href="https://leetcode.com/u/Mikky_mlh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" /></a></div>
-
+<a href="https://www.linkedin.com/in/yuvraj-sarathe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /></a>
+<a href="https://github.com/Mikky-mlh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" /></a>
+<a href="https://leetcode.com/u/Mikky_mlh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" /></a>
 
 </div>
 
@@ -113,7 +114,7 @@ I don't just upload source code to GitHub and call it done. When I build somethi
 <td width="50%">
 
 #### [DSA Journey in Java](https://github.com/Mikky-mlh/DSA-in-Java)
-<img src="https://img.shields.io/badge/43_Problems-Solved-success?style=flat-square" /> <img src="https://img.shields.io/badge/64.52%25-Acceptance-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/44_Problems-Solved-success?style=flat-square" /> <img src="https://img.shields.io/badge/64.52%25-Acceptance-blue?style=flat-square" />
 
 **Pattern-first learning approach:**
 - 🧠 Learn patterns, not memorize solutions
@@ -124,12 +125,13 @@ I don't just upload source code to GitHub and call it done. When I build somethi
 <td width="50%">
 
 #### [Web Projects Portfolio](https://github.com/Mikky-mlh/Web-Projects)
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/4_Projects-Deployed-success?style=flat-square" /> <img src="https://img.shields.io/badge/80%25-Complete-blue?style=flat-square" />
 
 **Production-grade web design:**
 - 📱 Fully responsive (mobile-first)
-- 🎨 Pure CSS art experiments
-- ✅ Tribute pages with research depth
+- 🎨 Modern glassmorphism & gradients
+- ✅ Form submissions & live deployments
+- 📧 Email integration via FormSubmit
 
 </td>
 </tr>
@@ -217,7 +219,7 @@ I don't just upload source code to GitHub and call it done. When I build somethi
 <summary><b>📅 View Detailed Roadmap (2025 - 2028)</b></summary>
 
 - ✅ **Phase 1: Foundations** (Nov-Dec 2025) 
-  - HTML/CSS/Java DSA foundations → 90% complete
+  - HTML/CSS/Java DSA foundations → 95% complete
 - 🔄 **Phase 2: Frontend** (Jan-Feb 2026)
   - JavaScript/React fundamentals
 - ⏳ **Phase 3: Backend & DevOps** (Mar-Jun 2026)
@@ -235,7 +237,7 @@ I don't just upload source code to GitHub and call it done. When I build somethi
 
 ### 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-6366F1?style=for-the-badge)](https://github.com/Mikky-mlh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Projects-6366F1?style=for-the-badge)](https://mikky-mlh.github.io/Web-Projects/)
 [![Email](https://img.shields.io/badge/Email-Click_Here-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvrajsarathe07@gmail.com)
 
 </div>
