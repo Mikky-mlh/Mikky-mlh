@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=250&section=header&text=Yuvraj%20Sarathe&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=280&section=header&text=Yuvraj%20Sarathe&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Polyglot%20Developer%20%7C%20Production-First%20Mindset%20%7C%20Pattern-Based%20Learning&descAlignY=55&descAlign=50&descSize=18" />
 
 <!-- Smooth Typing Subtitle with your Clauses -->
 <a href="https://git.io/typing-svg">
