@@ -23,13 +23,12 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # Use your PAT secret here for higher reliability
+          github_token: ${{ secrets.GH_TOKEN }} 
           publish_dir: ./dist
           publish_branch: output
-          commit_message: Update snake animation
+          commit_message: "Animate: Update contribution snake"
