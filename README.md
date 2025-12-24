@@ -176,22 +176,23 @@ I don't just upload source code to GitHub and call it done. When I build somethi
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mikky-mlh&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mikky-mlh&theme=tokyonight" alt="Profile Summary" />
 
-<br/>
+  <br/>
 
-<table>
-<tr>
-<td>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mikky-mlh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&cache_seconds=1800" />
-</td>
-<td>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mikky-mlh&layout=compact&theme=tokyonight&hide=jupyter%20notebook&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" />
-</td>
-</tr>
-</table>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Mikky-mlh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&cache_seconds=1800" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikky-mlh&layout=compact&theme=tokyonight&hide=jupyter%20notebook&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Mikky-mlh&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mikky-mlh&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" />
+  
 </div>
 
 ---
