@@ -1,6 +1,10 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=250&section=header&text=Yuvraj%20Sarathe&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=300&section=header&text=Yuvraj%20Sarathe&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+<!-- Smooth Typing Subtitle with your Clauses -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1500&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=50&lines=Polyglot+Programmer;Full-Stack+Architect;Efficiency+Obsessed;I+ship+production-ready+executables" alt="Typing SVG" />
+</a>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1500&color=6366F1&center=true&vCenter=true&width=1000&height=120&lines=I+don't+just+write+code;I+ship+production-ready+executables;Patterns+are+learned,+not+discovered" alt="Typing SVG" />
