@@ -209,7 +209,7 @@ I don't just upload source code to GitHub and call it done. When I build somethi
 
 </div>
 
-**Current trajectory:** Self-taught full-stack engineer targeting ₹20-35 LPA off-campus roles by 2028.
+**Current trajectory:** Self-taught full-stack engineer.
 
 **Why this matters:** I'm not waiting for campus placements. I'm building a portfolio of WORKING projects.
 
