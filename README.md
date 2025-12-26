@@ -114,18 +114,19 @@ I don't just upload source code to GitHub and call it done. When I build somethi
 <td width="50%">
 
 #### [DSA Journey in Java](https://github.com/Mikky-mlh/DSA-in-Java)
-<img src="https://img.shields.io/badge/47_Problems-Solved-success?style=flat-square" /> <img src="https://img.shields.io/badge/64.52%25-Acceptance-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/50_Problems-Solved-success?style=flat-square" /> <img src="https://img.shields.io/badge/64.52%25-Acceptance-blue?style=flat-square" />
 
 **Pattern-first learning approach:**
 - 🧠 Learn patterns, not memorize solutions
 - 📈 Improved acceptance rate: 52.9% → 64.52%
+- 🔄 60 total implementations (50 unique + 10 optimized)
 - 🔄 Multiple solutions per problem (optimization)
 
 </td>
 <td width="50%">
 
 #### [Web Projects Portfolio](https://github.com/Mikky-mlh/Web-Projects)
-<img src="https://img.shields.io/badge/4_Projects-Deployed-success?style=flat-square" /> <img src="https://img.shields.io/badge/80%25-Complete-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/4_Projects-Deployed-success?style=flat-square" /> <img src="https://img.shields.io/badge/93%25-Complete-blue?style=flat-square" />
 
 **Production-grade web design:**
 - 📱 Fully responsive (mobile-first)
@@ -133,6 +134,7 @@ I don't just upload source code to GitHub and call it done. When I build somethi
 - ✅ Real form submissions with email integration
 - 🎭 Modal dialogs, smooth scroll, JavaScript features
 - 📚 14/15 freeCodeCamp modules complete
+- 🚀 Latest: Product Landing Page with advanced JS
 
 </td>
 </tr>
@@ -220,7 +222,7 @@ I don't just upload source code to GitHub and call it done. When I build somethi
 <summary><b>📅 View Detailed Roadmap (2025 - 2028)</b></summary>
 
 - ✅ **Phase 1: Foundations** (Nov-Dec 2025) 
-  - HTML/CSS mastery (14/15 modules) + 47 DSA problems → 95% complete
+  - HTML/CSS mastery (14/15 modules) + 50 DSA problems → 95% complete
 - 🔄 **Phase 2: Frontend** (Jan-Feb 2026)
   - JavaScript/React fundamentals
 - ⏳ **Phase 3: Backend & DevOps** (Mar-Jun 2026)
