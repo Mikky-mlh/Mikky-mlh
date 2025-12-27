@@ -15,6 +15,7 @@
 <a href="https://www.linkedin.com/in/yuvraj-sarathe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /></a>
 <a href="https://github.com/Mikky-mlh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" /></a>
 <a href="https://leetcode.com/u/Mikky_mlh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" /></a>
+<a href="https://mikky-mlh.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live_Site-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 
 </div>
 
@@ -288,7 +289,7 @@ I don't just upload source code to GitHub and call it done. When I build somethi
 
 ### 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Projects-6366F1?style=for-the-badge)](https://mikky-mlh.github.io/Web-Projects/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Projects-6366F1?style=for-the-badge)](https://mikky-mlh.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/Email-Click_Here-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvrajsarathe07@gmail.com)
 
 ### 💬 Open to Collaboration
