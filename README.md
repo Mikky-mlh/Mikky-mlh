@@ -127,7 +127,7 @@ I don't just upload source code to GitHub and call it done. When I build somethi
 
 **More coming:** Todo App, Weather API, Interactive Games
 
-[![Live Portfolio](https://img.shields.io/badge/🌐_View_Live-Portfolio-4c1?style=flat-square)](https://mikky-mlh.github.io/Web-Projects/)
+[![Live Web Projects](https://img.shields.io/badge/🌐_View_Live-Web_Projects-4c1?style=flat-square)](https://mikky-mlh.github.io/Web-Projects/)
 
 </td>
 <td width="50%">
