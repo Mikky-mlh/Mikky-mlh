@@ -107,10 +107,28 @@ I don't just upload source code to GitHub and call it done. When I build somethi
 
 ---
 
-### 📚 Learning & Development
+### 🌐 Web Development Portfolio
 
 <table>
 <tr>
+<td width="50%">
+
+#### [Modern Web Projects](https://github.com/Mikky-mlh/Web-Projects)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+**🎓 freeCodeCamp Certified** - Responsive Web Design
+
+**Production-grade web applications:**
+- 🛍️ Product Landing Page (JS features, modals, form submission)
+- 📚 Technical Documentation (complex layouts, fixed nav)
+- 📝 Survey Form (glassmorphism, email integration)
+- 🏛️ Tribute Page (typography-focused design)
+
+**More coming:** Todo App, Weather API, Interactive Games
+
+[![Live Portfolio](https://img.shields.io/badge/🌐_View_Live-Portfolio-4c1?style=flat-square)](https://mikky-mlh.github.io/Web-Projects/)
+
+</td>
 <td width="50%">
 
 #### [DSA Journey in Java](https://github.com/Mikky-mlh/DSA-in-Java)
@@ -120,21 +138,13 @@ I don't just upload source code to GitHub and call it done. When I build somethi
 - 🧠 Learn patterns, not memorize solutions
 - 📈 Improved acceptance rate: 52.9% → 64.52%
 - 🔄 60 total implementations (50 unique + 10 optimized)
-- 🔄 Multiple solutions per problem (optimization)
+- 🎯 Multiple solution approaches per problem
 
-</td>
-<td width="50%">
-
-#### [Web Projects Portfolio](https://github.com/Mikky-mlh/Web-Projects)
-<img src="https://img.shields.io/badge/4_Projects-Deployed-success?style=flat-square" /> <img src="https://img.shields.io/badge/93%25-Complete-blue?style=flat-square" />
-
-**Production-grade web design:**
-- 📱 Fully responsive (mobile-first)
-- 🎨 Modern glassmorphism & gradients
-- ✅ Real form submissions with email integration
-- 🎭 Modal dialogs, smooth scroll, JavaScript features
-- 📚 14/15 freeCodeCamp modules complete
-- 🚀 Latest: Product Landing Page with advanced JS
+**Sections completed:**
+- ✅ Basic Maths (31 problems, 100%)
+- ✅ Patterns (17 problems)
+- ✅ Collections Framework mastery
+- 🔄 Basic Recursion (in progress)
 
 </td>
 </tr>
@@ -214,25 +224,63 @@ I don't just upload source code to GitHub and call it done. When I build somethi
 
 </div>
 
-**Current trajectory:** Self-taught full-stack engineer.
+**Current trajectory:** Self-taught full-stack engineer building a portfolio of WORKING projects.
 
-**Why this matters:** I'm not waiting for campus placements. I'm building a portfolio of WORKING projects.
+**Philosophy:** I'm not waiting for campus placements. I'm building production-ready software that demonstrates real capability.
 
 <details>
 <summary><b>📅 View Detailed Roadmap (2025 - 2028)</b></summary>
 
-- ✅ **Phase 1: Foundations** (Nov-Dec 2025) 
-  - HTML/CSS mastery (14/15 modules) + 50 DSA problems → 95% complete
-- 🔄 **Phase 2: Frontend** (Jan-Feb 2026)
-  - JavaScript/React fundamentals
+- ✅ **Phase 1: Foundations** (Nov-Dec 2025) - **COMPLETE**
+  - HTML/CSS mastery → freeCodeCamp certified
+  - 50 DSA problems with pattern-based learning
+  - 4 production-grade web projects deployed
+  
+- 🔄 **Phase 2: Interactive Frontend** (Jan-Feb 2026) - **IN PROGRESS**
+  - JavaScript fundamentals → advanced features
+  - DOM manipulation & event handling
+  - Todo App, Weather API integration, Interactive games
+  
 - ⏳ **Phase 3: Backend & DevOps** (Mar-Jun 2026)
-  - Flask/Docker/AWS
-- ⏳ **Phase 4: Integration** (Jul-Oct 2026)
-  - Full-stack integration + System Design
-- ⏳ **Phase 5: Mastery** (Oct 2026-Aug 2028)
-  - ML fundamentals + Interview prep
+  - Flask REST APIs
+  - PostgreSQL & SQL mastery
+  - Docker containerization
+  - AWS cloud deployment
+  
+- ⏳ **Phase 4: Full-Stack Integration** (Jul-Oct 2026)
+  - React component libraries
+  - Full-stack applications (React + Flask)
+  - CI/CD pipelines
+  - System Design fundamentals
+  
+- ⏳ **Phase 5: Advanced & ML** (Oct 2026-Aug 2028)
+  - Machine Learning fundamentals
+  - Data Science with Pandas/NumPy
+  - Interview preparation (500+ DSA problems target)
+  - Production-scale applications
 
 </details>
+
+---
+
+## 📈 Current Focus (January 2026)
+
+**Active Projects:**
+- 🔄 JavaScript fundamentals & ES6+ features
+- 🔄 Basic Recursion DSA section
+- 🔄 Enhancing existing web projects with JavaScript
+
+**Recent Achievements:**
+- ✅ freeCodeCamp Responsive Web Design Certification
+- ✅ 4 portfolio-grade web projects live
+- ✅ 50 DSA problems solved (64.52% acceptance rate)
+- ✅ Pattern-based learning approach established
+
+**Next Milestones:**
+- Build Todo App with local storage
+- Weather App with API integration
+- Interactive JavaScript game
+- Complete Basic Recursion section
 
 ---
 
@@ -243,6 +291,41 @@ I don't just upload source code to GitHub and call it done. When I build somethi
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Projects-6366F1?style=for-the-badge)](https://mikky-mlh.github.io/Web-Projects/)
 [![Email](https://img.shields.io/badge/Email-Click_Here-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvrajsarathe07@gmail.com)
 
-</div>
+### 💬 Open to Collaboration
+
+**Interested in:**
+ <br>
+ <br>
+ Code reviews and technical feedback
+ <br>
+ <br>
+ Project collaboration opportunities
+ <br>
+ <br>
+ Learning resources and best practices
+ <br>
+ <br>
+ Mentorship and guidance
+ <br>
+ <br>
+
+**Not interested in:**
+<br>
+<br>
+ Tutorial-quality code suggestions
+<br>
+<br>
+ Shortcuts or quick fixes
+<br>
+<br>
+ "Just add it to resume" advice
+<br>
+<br>
+ Quantity over quality approaches
+<br>
+<br>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" />
+
+</div>
