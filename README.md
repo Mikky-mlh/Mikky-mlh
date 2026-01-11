@@ -34,6 +34,7 @@
 | **Java** | [![View Code](https://img.shields.io/badge/Hangman-Code-ED8B00?style=flat-square)](https://github.com/Mikky-mlh/Hangman-in-Java) | `JDK` `Swing` | Single `.exe` • 2000+ Word Dictionary |
 | **Python** | [![View Code](https://img.shields.io/badge/Connect4-Code-3776AB?style=flat-square)](https://github.com/Mikky-mlh/Connect4-in-Python) | `NumPy` `Pygame` | Standalone Binary • O(1) Win Detection |
 | **Web** | [![View Live](https://img.shields.io/badge/Web_Projects-Live-4c1?style=flat-square)](https://mikky-mlh.github.io/Web-Projects/) | `JS` `HTML/CSS` | freeCodeCamp Certified • Responsive Design |
+| **Portfolio** | [![View Live](https://img.shields.io/badge/Portfolio-Live-4c1?style=flat-square)](https://mikky-mlh.github.io/Portfolio/) | `JS` `HTML/CSS` | Profile Portfolio • Responsive Design |
 | **DSA** | [![View Repo](https://img.shields.io/badge/DSA-Log-6366F1?style=flat-square)](https://github.com/Mikky-mlh/DSA-in-Java) | `Java` `Patterns` | 64% Acceptance • 59 Unique Solves |
 
 ---
