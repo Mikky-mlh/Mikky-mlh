@@ -47,7 +47,9 @@ const yuvraj = {
     always: "Input validation + error handling from day one"
   },
   
-  funFact: "I once built a To-Do app because every free one sucked 🔥"
+  funFact: "I once built a To-Do app because every free one sucked 🔥",
+  
+  latestShip: "GitDeep — AI that brutally roasts any GitHub profile 🔍"
 };
 ```
 
