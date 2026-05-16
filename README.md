@@ -51,6 +51,53 @@ const yuvraj = {
 };
 ```
 
+
+## 🔍 GitDeep — AI GitHub Profile Analyzer
+
+<div align="center">
+
+<a href="https://gitdeep.vercel.app">
+  <img src="https://img.shields.io/badge/🔍_GITDEEP-Live_Now-6366F1?style=for-the-badge&labelColor=0d1117" alt="GitDeep"/>
+</a>
+
+### *"Enter a GitHub username. Get a brutal, honest AI assessment of their entire developer profile."*
+
+</div>
+
+> **GitDeep** is a privacy-first, client-side AI analysis tool that evaluates any GitHub profile with depth no portfolio scanner has attempted before. Built in 4 days. Deployed and live.
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🎯 Dual Modes
+Employer Mode (brutal hirability scoring) and Developer Mode (mentorship plan with concrete upgrade steps).
+
+</td>
+<td width="33%" align="center">
+
+### 🧠 Deep Analysis
+Career slope detection, buzzword vs reality check, AI slop vs orchestration scoring, behavioral analysis, per-repo scoring.
+
+</td>
+<td width="33%" align="center">
+
+### 🔒 Zero Data
+No database. No tracking. No auth. 100% session-based. Your API key never touches a server.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**Stack:** `Next.js 15` · `TypeScript` · `Tailwind v4` · `Recharts` · `Octokit` · `12 AI Providers`
+
+[![Try it Live](https://img.shields.io/badge/🌐_Try_it_Live-gitdeep.vercel.app-6366F1?style=for-the-badge)](https://gitdeep.vercel.app)
+[![Source Code](https://img.shields.io/badge/📂_Source_Code-GitHub-181717?style=for-the-badge)](https://github.com/Yuvraj-Sarathe/GitDeep)
+
+</div>
+
 ---
 
 ## 🏆 The Flagship — FlowForge
