@@ -47,214 +47,75 @@ const yuvraj = {
     always: "Input validation + error handling from day one"
   },
   
-  funFact: "I once built a To-Do app because every free one sucked 🔥",
-  
-  latestShip: "GitDeep — AI that brutally roasts any GitHub profile 🔍"
+  latestShip: "GitIssue — Cross-repo client-side GitHub issue engine 🔍"
 };
+
 ```
 
+---
 
-## 🔍 GitDeep — AI GitHub Profile Analyzer
+## 🚀 Featured Projects
 
-<div align="center">
+### 🔍 GitDeep — AI GitHub Profile Analyzer
+[![Live Demo](https://img.shields.io/badge/🌐_Live-gitdeep.vercel.app-6366F1?style=flat-square)](https://gitdeep.vercel.app) [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Yuvraj-Sarathe/GitDeep)
 
-<a href="https://gitdeep.vercel.app">
-  <img src="https://img.shields.io/badge/🔍_GITDEEP-Live_Now-6366F1?style=for-the-badge&labelColor=0d1117" alt="GitDeep"/>
-</a>
+> *"Enter a GitHub username. Get a brutal, honest AI assessment of their entire developer profile."*
 
-### *"Enter a GitHub username. Get a brutal, honest AI assessment of their entire developer profile."*
-
-</div>
-
-> **GitDeep** is a privacy-first, client-side AI analysis tool that evaluates any GitHub profile with depth no portfolio scanner has attempted before. Built in 4 days. Deployed and live.
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🎯 Dual Modes
-Employer Mode (brutal hirability scoring) and Developer Mode (mentorship plan with concrete upgrade steps).
-
-</td>
-<td width="33%" align="center">
-
-### 🧠 Deep Analysis
-Career slope detection, buzzword vs reality check, AI slop vs orchestration scoring, behavioral analysis, per-repo scoring.
-
-</td>
-<td width="33%" align="center">
-
-### 🔒 Zero Data
-No database. No tracking. No auth. 100% session-based. Your API key never touches a server.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-**Stack:** `Next.js 15` · `TypeScript` · `Tailwind v4` · `Recharts` · `Octokit` · `12 AI Providers`
-
-[![Try it Live](https://img.shields.io/badge/🌐_Try_it_Live-gitdeep.vercel.app-6366F1?style=for-the-badge)](https://gitdeep.vercel.app)
-[![Source Code](https://img.shields.io/badge/📂_Source_Code-GitHub-181717?style=for-the-badge)](https://github.com/Yuvraj-Sarathe/GitDeep)
-
-</div>
+- **Dual Modes** — Employer Mode (hirability scoring) & Developer Mode (mentorship plan)
+- **Deep Analysis** — Career slope, buzzword check, AI slop detection, per-repo scoring
+- **Zero Data** — No database, no tracking, 100% session-based  
+`Next.js 15` · `TypeScript` · `Tailwind v4` · `Octokit` · `Gemini API`
 
 ---
 
-## 🏆 The Flagship — FlowForge
+### 🐙 GitIssue — Cross-Repo GitHub Issue Search
+[![Live Demo](https://img.shields.io/badge/🌐_Live-gitissue.vercel.app-6366F1?style=flat-square)](https://gitissue.vercel.app)
 
-<div align="center">
+> *Search, filter, and sort issues across all of GitHub — entirely client-side.*
 
-<a href="https://flowforge-f5e99.web.app">
-  <img src="https://img.shields.io/badge/🚀_FLOWFORGE-Live_Now-10b981?style=for-the-badge&labelColor=0d1117" alt="FlowForge"/>
-</a>
-
-### *"I couldn't find a free productivity app that didn't suck. So I built one."*
-
-</div>
-
-> **FlowForge** is a 100% free, all-in-one productivity companion — no paywalls, no premium tiers, no nonsense. Born out of frustration, built with obsession.
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 📋 Task Management
-Subtasks, priorities, tags, due dates, natural language input — the works.
-
-</td>
-<td width="33%" align="center">
-
-### ⏱️ Pomodoro + Planning
-Focus timer, Kanban board, calendar view, habit tracking, routines.
-
-</td>
-<td width="33%" align="center">
-
-### 🔄 Sync Anywhere
-Offline-first, QR device linking, Google auth, cross-platform PWA.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-**Stack:** `React 19` · `TypeScript` · `Tailwind v4` · `Firebase` · `Vite` · `IndexedDB` · `PWA`
-
-[![Try it Live](https://img.shields.io/badge/🌐_Try_it_Live-flowforge--f5e99.web.app-6366F1?style=for-the-badge)](https://flowforge-f5e99.web.app)
-[![Source Code](https://img.shields.io/badge/📂_Source_Code-GitHub-181717?style=for-the-badge)](https://github.com/Yuvraj-Sarathe/FlowForge)
-
-</div>
+- Browse issues with **label tracking**, language filters, and customizable views
+- No backend — uses GitHub Search API directly from your browser  
+`React` · `TypeScript` · `GitHub API`
 
 ---
 
-## 🚀 Other Shipped Projects
+### 🎓 CATMATHS — AI-Powered CAT Preparation
+[![Live Demo](https://img.shields.io/badge/🌐_Live-catmaths.vercel.app-6366F1?style=flat-square)](https://catmaths.vercel.app)
 
-### 🌐 Live Web Applications
+> *Free web app helping students crush the CAT quant section using AI-generated tests.*
 
-<table>
-<tr>
-<td width="50%">
+- Adaptive difficulty, instant feedback, and full-length mock generation  
+`Web` · `AI` · `Vercel`
 
-#### 🎓 [CATMATHS](https://catmaths.vercel.app/)
-**AI-Powered CAT Preparation Platform**
+---
 
-Free web app helping students crush the CAT quant section using AI-generated tests.
+### 🚀 FlowForge — All-in-One Productivity OS
+[![Live Demo](https://img.shields.io/badge/🌐_Live-flowforge--f5e99.web.app-10b981?style=flat-square)](https://flowforge-f5e99.web.app) [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Yuvraj-Sarathe/FlowForge)
 
-`Web` `AI` `Vercel`
+> *"I couldn't find a free productivity app that didn't suck. So I built one."*
 
-</td>
-<td width="50%">
+- **Task Management** — Subtasks, priorities, tags, natural language input
+- **Pomodoro + Planning** — Focus timer, Kanban, calendar, habit tracking
+- **Sync Anywhere** — Offline-first, QR device linking, Google auth, PWA  
+`React 19` · `TypeScript` · `Tailwind v4` · `Firebase` · `IndexedDB`
 
-#### 🎨 [OFE-PRO](https://ofe-pro.vercel.app/)
-**Production Web Application**
+---
 
-Modular architecture, polished UX, and optimized performance — the full-scale version.
-
-`React` `TypeScript` `Tailwind` `Vite`
-
-</td>
-</tr>
-</table>
-
-### 💻 Standalone Desktop Applications
-
-| Project | Description | Tech Stack | Type |
-|---------|-------------|------------|------|
-| 🎮 **[Hangman](https://github.com/Yuvraj-Sarathe/Hangman-in-Java)** | Production-ready desktop game with 2000+ word dictionary | `Java` `Swing` | Windows `.exe` |
-| 🔴 **[Connect 4](https://github.com/Yuvraj-Sarathe/Connect4-in-Python)** | Adaptive graphics with O(1) win detection | `Python` `Pygame` `NumPy` | Standalone Binary |
-| ❌ **[Tic-Tac-Toe](https://github.com/Yuvraj-Sarathe/Tic-Tac-Toe-in-CPP)** | AI opponent with colored console interface | `C++` `Windows API` | Console Game |
-| 🎲 **[Guess the Number](https://github.com/Yuvraj-Sarathe/GuessTheNumberGame)** | Event-driven GUI with smart hints | `Python` `Tkinter` | GUI Application |
-
-### 🌍 Web & Portfolio Projects
-
-| Project | Description | Links |
-|---------|-------------|-------|
-| **[OFE](https://github.com/Yuvraj-Sarathe/OFE)** | Single HTML file challenge — zero external dependencies | [Live Demo](https://Yuvraj-Sarathe.github.io/OFE/) |
-| **[Web Projects](https://github.com/Yuvraj-Sarathe/Web-Projects)** | freeCodeCamp certified responsive portfolio pieces | [Live Demo](https://Yuvraj-Sarathe.github.io/Web-Projects/) |
-| **[Portfolio](https://github.com/Yuvraj-Sarathe/Portfolio)** | Personal portfolio with theme switching | [Live Demo](https://Yuvraj-Sarathe.github.io/Portfolio/) |
-
-### 📊 Algorithmic Grind
-
-<div align="center">
+## 📊 DSA & Problem Solving
 
 [![DSA Log](https://img.shields.io/badge/DSA_in_Java-68_Unique_Solves-6366F1?style=for-the-badge)](https://github.com/Yuvraj-Sarathe/DSA-in-Java)
 [![LeetCode](https://img.shields.io/badge/LeetCode-76%25_Acceptance-FFA116?style=for-the-badge)](https://leetcode.com/u/Yuvraj_Sarathe/)
 [![Striver A2Z](https://img.shields.io/badge/Curriculum-Striver_A2Z-ef4444?style=for-the-badge)](https://github.com/Yuvraj-Sarathe/DSA-in-Java)
 
-*95 implementations • Pattern-based problem solving • Daily consistency*
-
-</div>
+*95+ implementations · Pattern-based problem solving · Daily consistency*
 
 ---
 
-## 🛠️ The Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
-
-![Skills](https://skillicons.dev/icons?i=java,python,cpp,react,typescript,tailwind,vite,firebase,html,css,js,git,linux,vscode&theme=dark&perline=7)
-
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,react,typescript,tailwind,vite,firebase,html,css,js,git,linux,vscode&theme=dark&perline=7" />
 </div>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### ⚔️ Battle-Tested
-- **Java** — Standalone `.exe`, DSA, Collections
-- **Python** — Streamlit, PyInstaller, AI integration
-- **React + TS** — Hooks, contexts, modern patterns
-- **Tailwind CSS** — Utility-first, responsive
-- **HTML/CSS/JS** — freeCodeCamp certified
-- **Firebase** — Auth, Firestore, Hosting
-
-</td>
-<td width="33%" valign="top">
-
-### 🧪 Comfortable With
-- **C++** — Console apps, Windows API
-- **Vite** — Modern build tooling
-- **IndexedDB** — Offline-first storage
-- **PWA** — Service workers, Workbox
-- **Gemini API** — AI & Vision OCR
-- **Git** — Version control workflows
-
-</td>
-<td width="33%" valign="top">
-
-### 🌱 Currently Leveling Up
-- **Flask** — REST API development
-- **SQL** — Database design
-- **Docker** — Containerization
-- **Next.js** — Full-stack React
-- **Cybersecurity** — Pen-testing basics
-- **System Design** — Scalability patterns
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -262,51 +123,14 @@ Modular architecture, polished UX, and optimized performance — the full-scale 
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-![Stats](https://github-readme-stats-drab-one-12.vercel.app/api?username=Yuvraj-Sarathe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9)
-
-</td>
-<td width="50%">
-
-![Langs](https://github-readme-stats-drab-one-12.vercel.app/api/top-langs/?username=Yuvraj-Sarathe&layout=compact&theme=tokyonight&hide=jupyter%20notebook&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9)
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/Yuvraj-Sarathe">
+  <img height="180em" src="https://github-readme-stats-drab-one-12.vercel.app/api?username=Yuvraj-Sarathe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats-drab-one-12.vercel.app/api/top-langs/?username=Yuvraj-Sarathe&layout=compact&theme=tokyonight&hide=jupyter%20notebook&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" />
+</a>
 
 ![Streak](https://github-readme-streak-stats-olive-tau-85.vercel.app/?user=Yuvraj-Sarathe&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1)
 
 </div>
-
----
-
-## 🎓 Education & Credentials
-
-<table>
-<tr>
-<td width="60%">
-
-### 🎯 Currently Studying
-**Bachelor of Technology — Cyber Security**  
-*Lakshmi Narain College of Technology (LNCT), Bhopal*  
-📅 2025 – 2029
-
-</td>
-<td width="40%">
-
-### 🏅 Certifications
-- ✅ Responsive Web Design — *freeCodeCamp*
-- ✅ Frontend Development
-- ✅ Modern AI Fundamentals
-- ✅ Networking Fundamentals
-- ✅ Hackvento 2k26 Participant
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -336,6 +160,3 @@ Modular architecture, polished UX, and optimized performance — the full-scale 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer"/>
 
 </div>
-```
-
----
