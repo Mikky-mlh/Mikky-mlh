@@ -34,7 +34,7 @@ const yuvraj = {
   philosophy: "Most devs write code. I ship software.",
   
   currentFocus: [
-    "🚀 Building FlowForge — my own productivity OS",
+    "🚀 Leading core development & CI/CD for KDM (Kubernetes + Docker Monitor)",
     "🛡️ Going deep on cybersecurity fundamentals",
     "📚 Grinding DSA (Striver A2Z)",
     "🌐 Mastering the React + TypeScript ecosystem"
@@ -55,6 +55,18 @@ const yuvraj = {
 ---
 
 ## 🚀 Featured Projects
+
+### 🐋 KDM-CLI — Kubernetes + Docker Monitoring
+[![Website](https://img.shields.io/badge/🌐_Website-kdmcli.app-0ea5e9?style=flat-square)](https://kdmcli.app/) [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/KDM-cli/kdm-cli)
+
+> *Lightweight, terminal-based monitoring CLI. I stepped in as Code Owner and engineered the CI/CD (Continuous Integration/Continuous Deployment — automating the release pipeline) to auto-generate changelogs on every release tag.*
+
+- **Unified Monitoring** — Real-time resource usage and health status for both Docker containers and Kubernetes pods in one terminal view.
+- **Pipeline Automation** — Engineered automated GitHub Actions workflows to sync tags and strictly maintain changelog history without manual intervention.
+- **Beautiful TUI** — Terminal UI (a text-based graphical interface running directly in the command prompt) powered by Ink and Commander.  
+`Node.js` · `Docker` · `Kubernetes` · `CI/CD` · `GitHub Actions`
+
+---
 
 ### 🔍 GitDeep — AI GitHub Profile Analyzer
 [![Live Demo](https://img.shields.io/badge/🌐_Live-gitdeep.vercel.app-6366F1?style=flat-square)](https://gitdeep.vercel.app) [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Yuvraj-Sarathe/GitDeep)
