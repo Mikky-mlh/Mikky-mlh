@@ -36,7 +36,7 @@ const yuvraj = {
   currentFocus: [
     "🚀 Leading core development & CI/CD for KDM (Kubernetes + Docker Monitor)",
     "🛡️ Going deep on cybersecurity fundamentals",
-    "📚 Grinding DSA (Striver A2Z)",
+    "📚 Grinding DSA",
     "🌐 Mastering the React + TypeScript ecosystem"
   ],
   
@@ -47,7 +47,7 @@ const yuvraj = {
     always: "Input validation + error handling from day one"
   },
   
-  latestShip: "GitIssue — Cross-repo client-side GitHub issue engine 🔍"
+  latestShip: "Motiveio — Curated learning platform & course aggregator 🎓 (my best yet)"
 };
 
 ```
@@ -67,6 +67,20 @@ const yuvraj = {
 `Node.js` · `Docker` · `Kubernetes` · `CI/CD` · `GitHub Actions`
 
 ---
+
+### 🎓 Motiveio — Curated Learning Platform & Course Aggregator ⭐ *Latest & Best*
+[![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Yuvraj-Sarathe/Motiveio)
+
+> *Motivation + I/O — aggregates high-quality tech courses from across the web and organizes them into structured career roadmaps. Browse, discover, and follow clear learning paths — no account required.*
+
+- **50+ courses · 12 roadmaps · 145+ steps · 226+ resources · 30+ platforms** — a serious, production-grade content engine, not a toy demo.
+- **Step-by-Step Career Roadmaps** — typed, phase-organized learning paths across web dev, DevOps, AI/ML, data, cybersecurity, mobile, game dev, blockchain & DSA, with embedded videos and practice questions.
+- **Server-First Architecture** — Next.js App Router with a clean 5-layer design, repository pattern data access, and 4-layer auth defense (middleware → layout guard → action guard → RLS).
+- **Full Admin Panel + Community Content** — CRUD with moderation workflows for courses, blogs, and reviews; 13-table Postgres schema with Row-Level Security.
+`Next.js 16` · `TypeScript` · `Supabase (PostgreSQL)` · `Tailwind v4` · `Framer Motion` · `Zod`
+
+---
+
 
 ### 🔍 GitDeep — AI GitHub Profile Analyzer
 [![Live Demo](https://img.shields.io/badge/🌐_Live-gitdeep.vercel.app-6366F1?style=flat-square)](https://gitdeep.vercel.app) [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Yuvraj-Sarathe/GitDeep)
