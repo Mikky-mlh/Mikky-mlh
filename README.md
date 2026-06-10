@@ -34,6 +34,7 @@ const yuvraj = {
   philosophy: "Most devs write code. I ship software.",
   
   currentFocus: [
+    "👿 Co-founder @ Demon-Die — building Certifier, a PR-tracking badge platform for open-source contributors",
     "🚀 Leading core development & CI/CD for KDM (Kubernetes + Docker Monitor)",
     "🛡️ Going deep on cybersecurity fundamentals",
     "📚 Grinding DSA",
@@ -54,17 +55,41 @@ const yuvraj = {
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Work Experience
 
-### 🐋 KDM-CLI — Kubernetes + Docker Monitoring
+### 🐋 Code Owner & Core Developer — KDM-CLI
 [![Website](https://img.shields.io/badge/🌐_Website-kdmcli.app-0ea5e9?style=flat-square)](https://kdmcli.app/) [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/KDM-cli/kdm-cli)
 
-> *Lightweight, terminal-based monitoring CLI. I stepped in as Code Owner and engineered the CI/CD (Continuous Integration/Continuous Deployment — automating the release pipeline) to auto-generate changelogs on every release tag.*
+- Stepped in as **Code Owner** and lead core development for a lightweight, terminal-based monitoring CLI for Docker and Kubernetes.
+- Engineered the full **CI/CD pipeline** (GitHub Actions) to automate releases and auto-generate changelogs on every release tag.
+- Built a beautiful **TUI** (Terminal UI) powered by Ink and Commander for real-time container and pod monitoring.
 
-- **Unified Monitoring** — Real-time resource usage and health status for both Docker containers and Kubernetes pods in one terminal view.
-- **Pipeline Automation** — Engineered automated GitHub Actions workflows to sync tags and strictly maintain changelog history without manual intervention.
-- **Beautiful TUI** — Terminal UI (a text-based graphical interface running directly in the command prompt) powered by Ink and Commander.  
 `Node.js` · `Docker` · `Kubernetes` · `CI/CD` · `GitHub Actions`
+
+---
+
+### 👿 Co-founder — Demon-Die
+[![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Demon-Die/Certifier)
+
+- Co-founded Demon-Die and introduced **Certifier**, a contributor reputation & recognition platform that gamifies open-source contributions.
+- Integrated **certifier.io** with GitHub webhooks to automatically track merged PRs and award points based on labels in real time.
+- Designed a **tiered badge system** (Front-End, Back-End, Docs, DevOps, etc.) that turns consistent contribution into visible, shareable credentials.
+
+`Web` · `GitHub Webhooks` · `certifier.io` · `Open Source`
+
+---
+
+## 🚀 Featured Projects
+
+### 🏅 Certifier — Contributor Reputation & Badge Platform
+[![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Demon-Die/Certifier)
+
+> *A contributor reputation & recognition platform that gamifies open-source contributions through automated PR tracking and badge-based achievements.*
+
+- **GitHub Integration** — Built on [certifier.io](http://certifier.io) and GitHub webhooks to automatically track merged PRs and their labels in real time.
+- **Points & Badges Engine** — Every merged PR awards contributors points based on issue labels. Accumulated points unlock badges across tiered families (e.g., Front-End, Back-End, Docs, DevOps, etc.).
+- **Gamified Open Source** — Turns consistent contribution into visible, shareable credentials that reward and recognize community members.
+`Web` · `GitHub Webhooks` · `certifier.io` · `Open Source`
 
 ---
 
