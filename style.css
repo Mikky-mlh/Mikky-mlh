@@ -1068,6 +1068,16 @@ body::before {
     background: linear-gradient(135deg, #fed7aa 0%, #fdba74 100%);
 }
 
+.fc-top-certifier {
+    background: linear-gradient(135deg, #2a1a3a 0%, #0a0a1a 100%);
+}
+[data-theme="manuscript"] .fc-top-certifier {
+    background: linear-gradient(135deg, #c8b0d0 0%, #b098c0 100%);
+}
+[data-theme="alabaster"] .fc-top-certifier {
+    background: linear-gradient(135deg, #ede9fe 0%, #ddd6fe 100%);
+}
+
 .fc-live {
     display: flex;
     align-items: center;
@@ -1310,6 +1320,42 @@ body::before {
     max-width: 100%;
     height: auto;
     border-radius: 4px;
+}
+
+/* ═══════════════════════════════════════════════════════════
+   EXPERIENCE SECTION
+   ═══════════════════════════════════════════════════════════ */
+.experience-section {
+    background: var(--bg-surf);
+    position: relative;
+}
+.experience-section::before {
+    content: '';
+    position: absolute;
+    top: 20%;
+    left: -10%;
+    width: 50vw;
+    height: 40vh;
+    background: radial-gradient(ellipse at center, color-mix(in srgb, var(--accent) 3%, transparent) 0%, transparent 65%);
+    pointer-events: none;
+}
+
+.exp-links {
+    display: flex;
+    gap: 1.25rem;
+    margin-top: 14px;
+    flex-wrap: wrap;
+}
+.exp-links .btn-text {
+    font-size: 0.82rem;
+    padding: 0;
+    color: var(--accent);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.2s;
+}
+.exp-links .btn-text:hover {
+    border-bottom-color: var(--accent);
 }
 
 /* ═══════════════════════════════════════════════════════════
