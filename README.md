@@ -34,7 +34,7 @@ const yuvraj = {
   philosophy: "Most devs write code. I ship software.",
   
   currentFocus: [
-    "👿 Co-founder @ Demon-Die — building Certifier, a PR-tracking badge platform for open-source contributors",
+    "👿 Co-founder @Omnikon — built Certifier, a PR-tracking badge platform for open-source contributors",
     "🚀 Leading core development & CI/CD for KDM (Kubernetes + Docker Monitor)",
     "🛡️ Going deep on cybersecurity fundamentals",
     "📚 Grinding DSA",
@@ -68,10 +68,10 @@ const yuvraj = {
 
 ---
 
-### 👿 Co-founder — Demon-Die
-[![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Demon-Die/Certifier)
+### 👿 Co-founder — Omnikon
+[![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Omnikon-Org)
 
-- Co-founded Demon-Die and introduced **Certifier**, a contributor reputation & recognition platform that gamifies open-source contributions.
+- Co-founded Omnikon and introduced **Certifier**, a contributor reputation & recognition platform that gamifies open-source contributions.
 - Integrated **certifier.io** with GitHub webhooks to automatically track merged PRs and award points based on labels in real time.
 - Designed a **tiered badge system** (Front-End, Back-End, Docs, DevOps, etc.) that turns consistent contribution into visible, shareable credentials.
 
@@ -82,7 +82,7 @@ const yuvraj = {
 ## 🚀 Featured Projects
 
 ### 🏅 Certifier — Contributor Reputation & Badge Platform
-[![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Demon-Die/Certifier)
+[![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Omnikon-Org/Certifier)
 
 > *A contributor reputation & recognition platform that gamifies open-source contributions through automated PR tracking and badge-based achievements.*
 
