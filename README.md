@@ -76,7 +76,7 @@ Portfolio/
 2. **About:** Background, education, and engineering philosophy
 3. **Projects:** Featured work with live demos + project list
 4. **Skills:** Technical proficiencies with categorized listing
-5. **Experience:** Professional roles — Demon Die Co‑founder, KDM‑CLI Codeowner
+5. **Experience:** Professional roles — Omnikon Co‑founder, KDM‑CLI Codeowner
 6. **Certifications:** Verified credentials with direct links
 7. **Contact:** Form with client‑side validation + mailto integration
 
@@ -86,8 +86,8 @@ Portfolio/
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-sarathe)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yuvraj-Sarathe)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YNuu2jM7W)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvrajsarathe07@gmail.com)
 
 *Last Updated: June 2026*
