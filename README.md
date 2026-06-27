@@ -57,6 +57,17 @@ const yuvraj = {
 
 ## 💼 Work Experience
 
+### 👿 Co-founder — Omnikon
+[![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Omnikon-Org)
+
+- Co-founded Omnikon and introduced **Certifier**, a contributor reputation & recognition platform that gamifies open-source contributions.
+- Integrated **certifier.io** with GitHub webhooks to automatically track merged PRs and award points based on labels in real time.
+- Designed a **tiered badge system** (Front-End, Back-End, Docs, DevOps, etc.) that turns consistent contribution into visible, shareable credentials.
+
+`Web` · `GitHub Webhooks` · `certifier.io` · `Open Source`
+
+---
+
 ### 🐋 Code Owner & Core Developer — KDM-CLI
 [![Website](https://img.shields.io/badge/🌐_Website-kdmcli.app-0ea5e9?style=flat-square)](https://kdmcli.app/) [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/KDM-cli/kdm-cli)
 
@@ -68,16 +79,6 @@ const yuvraj = {
 
 ---
 
-### 👿 Co-founder — Omnikon
-[![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Omnikon-Org)
-
-- Co-founded Omnikon and introduced **Certifier**, a contributor reputation & recognition platform that gamifies open-source contributions.
-- Integrated **certifier.io** with GitHub webhooks to automatically track merged PRs and award points based on labels in real time.
-- Designed a **tiered badge system** (Front-End, Back-End, Docs, DevOps, etc.) that turns consistent contribution into visible, shareable credentials.
-
-`Web` · `GitHub Webhooks` · `certifier.io` · `Open Source`
-
----
 
 ## 🚀 Featured Projects
 
