@@ -227,7 +227,7 @@ Adaptive difficulty, instant feedback, full-length mock generation.
 > If anything I've built has helped you, a sponsorship is the strongest signal you can send.
 
 <a href="https://github.com/sponsors/Yuvraj-Sarathe">
-  <img src="https://img.shields.io/badge/❤️_Sponsor_Yuvraj-ff69b4?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor" />
+  <img src="https://img.shields.io/badge/❤️_Sponsor_Me-ff69b4?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor" />
 </a>
 
 *Even ₹80/month (~$1) makes a real difference. Thank you.* 🙏
