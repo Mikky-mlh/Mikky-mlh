@@ -207,6 +207,13 @@ const yuvraj = {
 
 ---
 
+### 💜 Support my work
+If any of my projects have helped you — or you just want to cheer on a student in open source — a sponsorship makes a real difference. Even ₹80 (~$1)/month is a strong signal that this work matters.
+
+<p align="center"> <a href="https://github.com/sponsors/Yuvraj-Sarathe"> <img src="https://img.shields.io/badge/Become%20a%20Sponsor-%F0%9F%92%9C-ff69b4?style=for-the-badge" alt="Become a Sponsor" /> </a> </p>
+
+---
+
 > *"Quality is not an act, it is a habit."* — **Aristotle**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer"/>
