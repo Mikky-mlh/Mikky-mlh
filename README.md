@@ -34,8 +34,7 @@ const yuvraj = {
   philosophy: "Most devs write code. I ship software.",
   
   currentFocus: [
-    "👿 Co-founder @Omnikon — built Certifier, a PR-tracking badge platform for open-source contributors",
-    "🚀 Leading core development & CI/CD for KDM (Kubernetes + Docker Monitor)",
+    "👿 Co-founder @Omnikon — building UnVibe & Certifier",
     "🛡️ Going deep on cybersecurity fundamentals",
     "📚 Grinding DSA",
     "🌐 Mastering the React + TypeScript ecosystem"
@@ -60,96 +59,107 @@ const yuvraj = {
 ### 👿 Co-founder — Omnikon
 [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Omnikon-Org)
 
-- Co-founded Omnikon and introduced **Certifier**, a contributor reputation & recognition platform that gamifies open-source contributions.
-- Integrated **certifier.io** with GitHub webhooks to automatically track merged PRs and award points based on labels in real time.
-- Designed a **tiered badge system** (Front-End, Back-End, Docs, DevOps, etc.) that turns consistent contribution into visible, shareable credentials.
+Building open-source developer tools. Shipped **UnVibe** (AI learning platform) and **Certifier** (contributor badge system). Leading full-stack development across the org.
 
-`Web` · `GitHub Webhooks` · `certifier.io` · `Open Source`
+`Next.js` · `TypeScript` · `FastAPI` · `GitHub Webhooks`
 
 ---
 
-### 🐋 Code Owner & Core Developer — KDM-CLI
+### 🐋 Code Owner & Core Developer — KDM-CLI *(former)*
 [![Website](https://img.shields.io/badge/🌐_Website-kdmcli.app-0ea5e9?style=flat-square)](https://kdmcli.app/) [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/KDM-cli/kdm-cli)
 
-- Stepped in as **Code Owner** and lead core development for a lightweight, terminal-based monitoring CLI for Docker and Kubernetes.
-- Engineered the full **CI/CD pipeline** (GitHub Actions) to automate releases and auto-generate changelogs on every release tag.
-- Built a beautiful **TUI** (Terminal UI) powered by Ink and Commander for real-time container and pod monitoring.
+Led core development and CI/CD for a terminal-based Docker & Kubernetes monitoring CLI. Built the TUI with Ink + Commander and automated releases via GitHub Actions.
 
-`Node.js` · `Docker` · `Kubernetes` · `CI/CD` · `GitHub Actions`
+`Node.js` · `Docker` · `Kubernetes` · `GitHub Actions`
 
 ---
-
 
 ## 🚀 Featured Projects
 
-### 🏅 Certifier — Contributor Reputation & Badge Platform
+### 🤖 UnVibe — AI Developer Learning Platform
+[![Live](https://img.shields.io/badge/🌐_Live-unvibe--omnikon.vercel.app-6366F1?style=flat-square)](https://unvibe-omnikon.vercel.app/) [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Omnikon-Org/UnVibe)
+
+> *Don't use AI as a crutch. Use it as a benchmark.*
+
+Three-phase loop: **Decode** AI-generated code → **Rebuild** from memory → **Defend** your decisions. Tracks comprehension vs. AI dependency via an IRS score.
+
+`Next.js 14` · `tRPC` · `FastAPI` · `Prisma` · `Turborepo`
+
+---
+
+### 🏅 Certifier — Contributor Badge Platform
 [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Omnikon-Org/Certifier)
 
-> *A contributor reputation & recognition platform that gamifies open-source contributions through automated PR tracking and badge-based achievements.*
+> *Gamifies open-source contributions via automated PR tracking and tiered badges.*
 
-- **GitHub Integration** — Built on [certifier.io](http://certifier.io) and GitHub webhooks to automatically track merged PRs and their labels in real time.
-- **Points & Badges Engine** — Every merged PR awards contributors points based on issue labels. Accumulated points unlock badges across tiered families (e.g., Front-End, Back-End, Docs, DevOps, etc.).
-- **Gamified Open Source** — Turns consistent contribution into visible, shareable credentials that reward and recognize community members.
-`Web` · `GitHub Webhooks` · `certifier.io` · `Open Source`
+GitHub webhooks track merged PRs in real time and award badges across contribution categories (Front-End, Back-End, Docs, DevOps, etc.).
 
----
-
-### 🎓 Motiveio — Curated Learning Platform & Course Aggregator ⭐ *Latest & Best*
-[![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Yuvraj-Sarathe/Motiveio)
-
-> *Motivation + I/O — aggregates high-quality tech courses from across the web and organizes them into structured career roadmaps. Browse, discover, and follow clear learning paths — no account required.*
-
-- **50+ courses · 12 roadmaps · 145+ steps · 226+ resources · 30+ platforms** — a serious, production-grade content engine, not a toy demo.
-- **Step-by-Step Career Roadmaps** — typed, phase-organized learning paths across web dev, DevOps, AI/ML, data, cybersecurity, mobile, game dev, blockchain & DSA, with embedded videos and practice questions.
-- **Server-First Architecture** — Next.js App Router with a clean 5-layer design, repository pattern data access, and 4-layer auth defense (middleware → layout guard → action guard → RLS).
-- **Full Admin Panel + Community Content** — CRUD with moderation workflows for courses, blogs, and reviews; 13-table Postgres schema with Row-Level Security.
-`Next.js 16` · `TypeScript` · `Supabase (PostgreSQL)` · `Tailwind v4` · `Framer Motion` · `Zod`
+`GitHub Webhooks` · `certifier.io` · `Open Source`
 
 ---
 
+### 🔖 IssuesSwipe — Swipe to Contribute
+[![Live](https://img.shields.io/badge/🌐_Live-issues--swipe.vercel.app-6366F1?style=flat-square)](https://issues-swipe-eta.vercel.app/) [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Omnikon-Org/IssuesSwipe)
 
-### 🔍 GitDeep — AI GitHub Profile Analyzer
-[![Live Demo](https://img.shields.io/badge/🌐_Live-gitdeep.vercel.app-6366F1?style=flat-square)](https://gitdeep.vercel.app) [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Yuvraj-Sarathe/GitDeep)
+> *Tinder-style interface for finding open-source issues to work on.*
 
-> *"Enter a GitHub username. Get a brutal, honest AI assessment of their entire developer profile."*
+Contributed core development. Issue search and filtering is powered by my **GitIssue** project.
 
-- **Dual Modes** — Employer Mode (hirability scoring) & Developer Mode (mentorship plan)
-- **Deep Analysis** — Career slope, buzzword check, AI slop detection, per-repo scoring
-- **Zero Data** — No database, no tracking, 100% session-based  
-`Next.js 15` · `TypeScript` · `Tailwind v4` · `Octokit` · `Gemini API`
-
----
-
-### 🐙 GitIssue — Cross-Repo GitHub Issue Search
-[![Live Demo](https://img.shields.io/badge/🌐_Live-gitissue.vercel.app-6366F1?style=flat-square)](https://gitissue.vercel.app)
-
-> *Search, filter, and sort issues across all of GitHub — entirely client-side.*
-
-- Browse issues with **label tracking**, language filters, and customizable views
-- No backend — uses GitHub Search API directly from your browser  
 `React` · `TypeScript` · `GitHub API`
 
 ---
 
-### 🎓 CATMATHS — AI-Powered CAT Preparation
-[![Live Demo](https://img.shields.io/badge/🌐_Live-catmaths.vercel.app-6366F1?style=flat-square)](https://catmaths.vercel.app)
+### 🎓 Motiveio — Course Aggregator & Learning Roadmaps ⭐
+[![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Yuvraj-Sarathe/Motiveio)
 
-> *Free web app helping students crush the CAT quant section using AI-generated tests.*
+> *50+ courses · 12 roadmaps · 226+ resources · 30+ platforms — no account required.*
 
-- Adaptive difficulty, instant feedback, and full-length mock generation  
-`Web` · `AI` · `Vercel`
+Server-first Next.js app with a 13-table Postgres schema, RLS, full admin panel, and structured career paths across web, DevOps, AI/ML, cybersecurity, and more.
+
+`Next.js 16` · `Supabase` · `Tailwind v4` · `Zod`
 
 ---
 
-### 🚀 FlowForge — All-in-One Productivity OS
-[![Live Demo](https://img.shields.io/badge/🌐_Live-flowforge--f5e99.web.app-10b981?style=flat-square)](https://flowforge-f5e99.web.app) [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Yuvraj-Sarathe/FlowForge)
+### 🔍 GitDeep — AI GitHub Profile Analyzer
+[![Live](https://img.shields.io/badge/🌐_Live-gitdeep.vercel.app-6366F1?style=flat-square)](https://gitdeep.vercel.app) [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Yuvraj-Sarathe/GitDeep)
 
-> *"I couldn't find a free productivity app that didn't suck. So I built one."*
+> *Enter a username. Get a brutal, honest AI assessment of their developer profile.*
 
-- **Task Management** — Subtasks, priorities, tags, natural language input
-- **Pomodoro + Planning** — Focus timer, Kanban, calendar, habit tracking
-- **Sync Anywhere** — Offline-first, QR device linking, Google auth, PWA  
-`React 19` · `TypeScript` · `Tailwind v4` · `Firebase` · `IndexedDB`
+Dual modes: Employer (hirability score) & Developer (mentorship plan). Career slope, AI slop detection, per-repo scoring. Zero database, 100% session-based.
+
+`Next.js 15` · `Octokit` · `Gemini API`
+
+---
+
+### 🐙 GitIssue — Cross-Repo Issue Search
+[![Live](https://img.shields.io/badge/🌐_Live-gitissue.vercel.app-6366F1?style=flat-square)](https://gitissue.vercel.app)
+
+> *Search and filter GitHub issues across all repos — entirely client-side.*
+
+Label tracking, language filters, customizable views. Powers the issue feed in **IssuesSwipe**.
+
+`React` · `TypeScript` · `GitHub API`
+
+---
+
+### 🚀 FlowForge — Productivity OS
+[![Live](https://img.shields.io/badge/🌐_Live-flowforge.web.app-10b981?style=flat-square)](https://flowforge-f5e99.web.app) [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Yuvraj-Sarathe/FlowForge)
+
+> *I couldn't find a free productivity app that didn't suck. So I built one.*
+
+Tasks, Pomodoro, Kanban, habit tracking, offline-first PWA with QR device sync.
+
+`React 19` · `Firebase` · `IndexedDB`
+
+---
+
+### 🎓 CATMATHS — AI CAT Prep
+[![Live](https://img.shields.io/badge/🌐_Live-catmaths.vercel.app-6366F1?style=flat-square)](https://catmaths.vercel.app)
+
+> *Free AI-powered quant prep for CAT aspirants.*
+
+Adaptive difficulty, instant feedback, full-length mock generation.  
+`Web` · `AI` · `Vercel`
 
 ---
 
@@ -207,10 +217,22 @@ const yuvraj = {
 
 ---
 
-### 💜 Support my work
-If any of my projects have helped you — or you just want to cheer on a student in open source — a sponsorship makes a real difference. Even ₹80 (~$1)/month is a strong signal that this work matters.
+---
 
-<p align="center"> <a href="https://github.com/sponsors/Yuvraj-Sarathe"> <img src="https://img.shields.io/badge/Become%20a%20Sponsor-%F0%9F%92%9C-ff69b4?style=for-the-badge" alt="Become a Sponsor" /> </a> </p>
+### 💜 Support My Work
+
+<div align="center">
+
+> I'm a student shipping real open-source software — no VC, no team, just code and caffeine.
+> If anything I've built has helped you, a sponsorship is the strongest signal you can send.
+
+<a href="https://github.com/sponsors/Yuvraj-Sarathe">
+  <img src="https://img.shields.io/badge/❤️_Sponsor_Yuvraj-ff69b4?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor" />
+</a>
+
+*Even ₹80/month (~$1) makes a real difference. Thank you.* 🙏
+
+</div>
 
 ---
 
