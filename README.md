@@ -226,9 +226,7 @@ Adaptive difficulty, instant feedback, full-length mock generation.
 > I'm a student shipping real open-source software — no VC, no team, just code and caffeine.
 > If anything I've built has helped you, a sponsorship is the strongest signal you can send.
 
-<a href="https://github.com/sponsors/Yuvraj-Sarathe">
-  <img src="https://img.shields.io/badge/❤️_Sponsor_Me-ff69b4?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor" />
-</a>
+<iframe src="https://github.com/sponsors/Yuvraj-Sarathe/card" title="Sponsor Yuvraj-Sarathe" height="225" width="600" style="border: 0;"></iframe>
 
 *Even ₹80/month (~$1) makes a real difference. Thank you.* 🙏
 
