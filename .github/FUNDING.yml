@@ -1,0 +1,14 @@
+# GitHub Sponsors funding configuration
+# Place at: .github/FUNDING.yml
+#
+# Put this file in a public repo named "Yuvraj-Sarathe" (matching your username)
+# and it becomes the DEFAULT for every repo you own — the 💜 Sponsor button
+# will appear on all of them automatically.
+
+github: [Yuvraj-Sarathe]
+
+# Add more platforms later by uncommenting:
+# ko_fi: yuvrajsarathe
+# buy_me_a_coffee: yuvrajsarathe
+# patreon: yuvrajsarathe
+# custom: ["https://your-site.dev/donate"]
