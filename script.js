@@ -223,7 +223,7 @@ function setupContactForm() {
         });
     });
 
-    form.addEventListener('submit', e => {
+    form.addEventListener('submit', async e => {
         e.preventDefault();
 
         const nameEl    = document.getElementById('name');
@@ -240,16 +240,30 @@ function setupContactForm() {
 
         if (!valid) return;
 
-        // Open mailto
-        const subj = encodeURIComponent(subjectEl.value);
-        const body = encodeURIComponent(
-            `Name: ${nameEl.value}\nEmail: ${emailEl.value}\n\nMessage:\n${msgEl.value}`
-        );
-        window.open(`mailto:yuvrajsarathe07@gmail.com?subject=${subj}&body=${body}`, '_blank');
+        const submitBtn = form.querySelector('[type="submit"]');
+        if (submitBtn) submitBtn.disabled = true;
 
-        // Show thank you
-        form.hidden        = true;
-        thankYou.hidden    = false;
+        // Update hidden subject field with actual subject value
+        const hiddenSubject = document.getElementById('web3forms_subject');
+        if (hiddenSubject) hiddenSubject.value = subjectEl.value;
+
+        try {
+            const res = await fetch('https://api.web3forms.com/submit', {
+                method: 'POST',
+                body: new FormData(form),
+            });
+            const data = await res.json();
+            if (data.success) {
+                form.hidden     = true;
+                thankYou.hidden = false;
+            } else {
+                showError('message', 'Something went wrong. Try emailing directly.');
+            }
+        } catch {
+            showError('message', 'Network error. Try emailing directly.');
+        } finally {
+            if (submitBtn) submitBtn.disabled = false;
+        }
     });
 
     if (backBtn) {
