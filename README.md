@@ -1,95 +1,243 @@
 <div align="center">
+  
+<!-- Animated Header with Typing Effect -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Yuvraj%20Sarathe&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=I%20don't%20write%20code.%20I%20ship%20software.&descAlignY=55&descSize=22" alt="header"/>
 
-# 👨💻 Yuvraj Sarathe | Portfolio
+<!-- Typing SVG -->
+<a href="https://github.com/Yuvraj-Sarathe">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=800&lines=🛡️+B.Tech+Cyber+Security+%40+LNCT+Bhopal;📦+Production-First+Developer;🚀+Shipping+real+apps%2C+not+just+repos;☕+Powered+by+caffeine+%26+curiosity" alt="Typing SVG" />
+</a>
 
-[![LIVE PORTFOLIO](https://img.shields.io/badge/🌐_LIVE_SITE-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Yuvraj-Sarathe.github.io/Portfolio/)
+<br/>
 
-**Production-Ready Software • Multi-Language Developer • Cyber Security Student**
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-sarathe)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yuvraj-Sarathe)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yuvraj_Sarathe/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Yuvraj-Sarathe.github.io/Portfolio/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvrajsarathe07@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Yuvraj-Sarathe&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 🚀 About This Portfolio
+## 🧠 `whoami`
 
-Modern, responsive portfolio website showcasing my software development journey. Built with vanilla HTML, CSS, and JavaScript featuring:
+```typescript
+const yuvraj = {
+  role: "Production-First Developer",
+  location: "Bhopal, India 🇮🇳",
+  education: "B.Tech Cyber Security @ LNCT (2025-2029)",
+  
+  philosophy: "Most devs write code. I ship software.",
+  
+  currentFocus: [
+    "👿 Co-founder @Omnikon — building UnVibe & Certifier",
+    "🛡️ Going deep on cybersecurity fundamentals",
+    "📚 Grinding DSA",
+    "🌐 Mastering the React + TypeScript ecosystem"
+  ],
+  
+  shippingPhilosophy: {
+    java:   "Bundled JRE → zero-friction .exe",
+    python: "PyInstaller → standalone binaries",
+    web:    "PWA-first, offline-first, user-first",
+    always: "Input validation + error handling from day one"
+  },
+  
+  latestShip: "Motiveio — Curated learning platform & course aggregator 🎓 (my best yet)"
+};
 
-- **4‑Theme System:** Obsidian, Phosphor, Manuscript, Alabaster — persisted to localStorage
-- **Scroll‑Triggered Animations:** IntersectionObserver‑based reveal system with cascading delays
-- **Responsive Design:** Mobile-first approach with floating pill navigation
-- **Accessibility:** Semantic HTML, ARIA labels, skip‑to‑content link, reduced‑motion support
+```
+
+---
+
+## 💼 Work Experience
+
+### 👿 Co-founder — Omnikon
+[![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Omnikon-Org)
+
+Building open-source developer tools. Shipped **UnVibe** (AI learning platform) and **Certifier** (contributor badge system). Leading full-stack development across the org.
+
+`Next.js` · `TypeScript` · `FastAPI` · `GitHub Webhooks`
+
+---
+
+### 🐋 Code Owner & Core Developer — KDM-CLI *(former)*
+[![Website](https://img.shields.io/badge/🌐_Website-kdmcli.app-0ea5e9?style=flat-square)](https://kdmcli.app/) [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/KDM-cli/kdm-cli)
+
+Led core development and CI/CD for a terminal-based Docker & Kubernetes monitoring CLI. Built the TUI with Ink + Commander and automated releases via GitHub Actions.
+
+`Node.js` · `Docker` · `Kubernetes` · `GitHub Actions`
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 UnVibe — AI Developer Learning Platform
+[![Live](https://img.shields.io/badge/🌐_Live-unvibe--omnikon.vercel.app-6366F1?style=flat-square)](https://unvibe-omnikon.vercel.app/) [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Omnikon-Org/UnVibe)
+
+> *Don't use AI as a crutch. Use it as a benchmark.*
+
+Three-phase loop: **Decode** AI-generated code → **Rebuild** from memory → **Defend** your decisions. Tracks comprehension vs. AI dependency via an IRS score.
+
+`Next.js 14` · `tRPC` · `FastAPI` · `Prisma` · `Turborepo`
+
+---
+
+### 🏅 Certifier — Contributor Badge Platform
+[![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Omnikon-Org/Certifier)
+
+> *Gamifies open-source contributions via automated PR tracking and tiered badges.*
+
+GitHub webhooks track merged PRs in real time and award badges across contribution categories (Front-End, Back-End, Docs, DevOps, etc.).
+
+`GitHub Webhooks` · `certifier.io` · `Open Source`
+
+---
+
+### 🔖 IssuesSwipe — Swipe to Contribute
+[![Live](https://img.shields.io/badge/🌐_Live-issues--swipe.vercel.app-6366F1?style=flat-square)](https://issues-swipe-eta.vercel.app/) [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Omnikon-Org/IssuesSwipe)
+
+> *Tinder-style interface for finding open-source issues to work on.*
+
+Contributed core development. Issue search and filtering is powered by my **GitIssue** project.
+
+`React` · `TypeScript` · `GitHub API`
+
+---
+
+### 🎓 Motiveio — Course Aggregator & Learning Roadmaps ⭐
+[![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Yuvraj-Sarathe/Motiveio)
+
+> *50+ courses · 12 roadmaps · 226+ resources · 30+ platforms — no account required.*
+
+Server-first Next.js app with a 13-table Postgres schema, RLS, full admin panel, and structured career paths across web, DevOps, AI/ML, cybersecurity, and more.
+
+`Next.js 16` · `Supabase` · `Tailwind v4` · `Zod`
+
+---
+
+### 🔍 GitDeep — AI GitHub Profile Analyzer
+[![Live](https://img.shields.io/badge/🌐_Live-gitdeep.vercel.app-6366F1?style=flat-square)](https://gitdeep.vercel.app) [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Yuvraj-Sarathe/GitDeep)
+
+> *Enter a username. Get a brutal, honest AI assessment of their developer profile.*
+
+Dual modes: Employer (hirability score) & Developer (mentorship plan). Career slope, AI slop detection, per-repo scoring. Zero database, 100% session-based.
+
+`Next.js 15` · `Octokit` · `Gemini API`
+
+---
+
+### 🐙 GitIssue — Cross-Repo Issue Search
+[![Live](https://img.shields.io/badge/🌐_Live-gitissue.vercel.app-6366F1?style=flat-square)](https://gitissue.vercel.app)
+
+> *Search and filter GitHub issues across all repos — entirely client-side.*
+
+Label tracking, language filters, customizable views. Powers the issue feed in **IssuesSwipe**.
+
+`React` · `TypeScript` · `GitHub API`
+
+---
+
+### 🚀 FlowForge — Productivity OS
+[![Live](https://img.shields.io/badge/🌐_Live-flowforge.web.app-10b981?style=flat-square)](https://flowforge-f5e99.web.app) [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Yuvraj-Sarathe/FlowForge)
+
+> *I couldn't find a free productivity app that didn't suck. So I built one.*
+
+Tasks, Pomodoro, Kanban, habit tracking, offline-first PWA with QR device sync.
+
+`React 19` · `Firebase` · `IndexedDB`
+
+---
+
+### 🎓 CATMATHS — AI CAT Prep
+[![Live](https://img.shields.io/badge/🌐_Live-catmaths.vercel.app-6366F1?style=flat-square)](https://catmaths.vercel.app)
+
+> *Free AI-powered quant prep for CAT aspirants.*
+
+Adaptive difficulty, instant feedback, full-length mock generation.  
+`Web` · `AI` · `Vercel`
+
+---
+
+## 📊 DSA & Problem Solving
+
+[![DSA Log](https://img.shields.io/badge/DSA_in_Java-68_Unique_Solves-6366F1?style=for-the-badge)](https://github.com/Yuvraj-Sarathe/DSA-in-Java)
+[![LeetCode](https://img.shields.io/badge/LeetCode-76%25_Acceptance-FFA116?style=for-the-badge)](https://leetcode.com/u/Yuvraj_Sarathe/)
+[![Striver A2Z](https://img.shields.io/badge/Curriculum-Striver_A2Z-ef4444?style=for-the-badge)](https://github.com/Yuvraj-Sarathe/DSA-in-Java)
+
+*95+ implementations · Pattern-based problem solving · Daily consistency*
 
 ---
 
 ## 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,react,typescript,tailwind,vite,firebase,html,css,js,git,linux,vscode&theme=dark&perline=7" />
+</div>
 
 ---
 
-## ✨ Key Features
-
-- **4 Color Themes:** Obsidian, Phosphor, Manuscript, Alabaster — switchable via theme toggle
-- **Scroll‑Triggered Reveals:** Elements fade up on scroll with configurable delays
-- **Click Spark Effect:** Canvas‑based particle burst on click (ported from React Bits)
-- **Custom Cursor Trail:** Lerp‑based trailing dot effect
-- **Floating Pill Nav:** Fixed navigation with scroll spy and mobile overlay
-- **Back‑to‑Top Button:** Appears after scrolling past hero
-- **Contact Form:** Client‑side validation with mailto integration
-
----
-
-## 📂 Project Structure
-
-```
-Portfolio/
-├── index.html              # Main portfolio page
-├── style.css               # Styling and animations (1700+ lines)
-├── script.js               # Interactive functionality
-├── cursor-trail.js         # Custom cursor trail effect
-├── 404.html                # Custom error page
-├── favicon.svg             # SVG favicon
-├── sitemap.xml             # SEO sitemap
-├── resume.pdf              # Downloadable resume
-├── project-detail-screens.html  # Project deep‑dive gallery
-├── screens/                # Individual case study pages
-│   ├── kdm-cli.html
-│   ├── sonic-vault.html
-│   ├── gitdeep.html
-│   ├── gitissue.html
-│   ├── flowforge.html
-│   ├── catmaths.html
-│   ├── css/project.css
-│   └── js/project.js
-├── Certificates/           # Certificate assets
-└── README.md               # This file
-```
-
----
-
-## 🎯 Sections
-
-1. **Hero:** Introduction with stats and role callout
-2. **About:** Background, education, and engineering philosophy
-3. **Projects:** Featured work with live demos + project list
-4. **Skills:** Technical proficiencies with categorized listing
-5. **Experience:** Professional roles — Omnikon Co‑founder, KDM‑CLI Codeowner
-6. **Certifications:** Verified credentials with direct links
-7. **Contact:** Form with client‑side validation + mailto integration
-
----
-
-## 📡 Connect
+## 📈 GitHub Analytics
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yuvraj-Sarathe)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YNuu2jM7W)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvrajsarathe07@gmail.com)
+<a href="https://github.com/Yuvraj-Sarathe">
+  <img height="180em" src="https://github-readme-stats-drab-one-12.vercel.app/api?username=Yuvraj-Sarathe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats-drab-one-12.vercel.app/api/top-langs/?username=Yuvraj-Sarathe&layout=compact&theme=tokyonight&hide=jupyter%20notebook&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" />
+</a>
 
-*Last Updated: August 2026*
+![Streak](https://github-readme-streak-stats-olive-tau-85.vercel.app/?user=Yuvraj-Sarathe&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1)
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Yuvraj-Sarathe/Yuvraj-Sarathe/output/github-contribution-grid-snake.svg" alt="Snake animation eating contributions" />
+</div>
+
+---
+
+<div align="center">
+
+## 💬 Let's Build Something
+
+[![Email](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvrajsarathe07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/🤝_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-sarathe)
+[![Portfolio](https://img.shields.io/badge/🎨_Portfolio-Visit-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Yuvraj-Sarathe.github.io/Portfolio/)
+
+### 🎯 I'm open to:
+`Technical Feedback` · `Open-Source Collaboration` · `Security-Focused Projects` · `Internship Opportunities`
+
+---
+
+---
+
+### 💜 Support My Work
+
+<div align="center">
+
+> I'm a student shipping real open-source software — no VC, no team, just code and caffeine.
+> If anything I've built has helped you, a sponsorship is the strongest signal you can send.
+
+<a href="https://github.com/sponsors/Yuvraj-Sarathe">
+  <img src="https://img.shields.io/badge/❤️_Sponsor_Me-ff69b4?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor" />
+</a>
+
+*Even ₹80/month (~$1) makes a real difference. Thank you.* 🙏
+
+</div>
+
+---
+
+> *"Quality is not an act, it is a habit."* — **Aristotle**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer"/>
 
 </div>
