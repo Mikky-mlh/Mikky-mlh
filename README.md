@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-sarathe)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yuvraj-Sarathe)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yuvraj_Sarathe/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Yuvraj-Sarathe.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yuvraj-sarathe.github.io/Yuvraj-Sarathe/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvrajsarathe07@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Yuvraj-Sarathe&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
@@ -47,7 +47,7 @@ const yuvraj = {
     always: "Input validation + error handling from day one"
   },
   
-  latestShip: "Motiveio — Curated learning platform & course aggregator 🎓 (my best yet)"
+  latestShip: "Sonic Vault — offline-first, cross-platform music player 🎵 (my best yet)"
 };
 
 ```
@@ -109,14 +109,14 @@ Contributed core development. Issue search and filtering is powered by my **GitI
 
 ---
 
-### 🎓 Motiveio — Course Aggregator & Learning Roadmaps ⭐
-[![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Yuvraj-Sarathe/Motiveio)
+### 🎵 Sonic Vault — Offline-First Music Player ⭐
+[![Live](https://img.shields.io/badge/🌐_Live-Sonic--Vault-6366F1?style=flat-square)](https://yuvraj-sarathe.github.io/Sonic-Vault/) [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Yuvraj-Sarathe/Sonic-Vault)
 
-> *50+ courses · 12 roadmaps · 226+ resources · 30+ platforms — no account required.*
+> *Your music. Your covers. Your lyrics. Your rules.*
 
-Server-first Next.js app with a 13-table Postgres schema, RLS, full admin panel, and structured career paths across web, DevOps, AI/ML, cybersecurity, and more.
+Free, open-source, offline-first music player for Windows, Android, Linux & macOS. Custom cover art, synchronized `.lrc` lyrics, playlists, and genre/artist/album browsing — shipped as signed installers with a self-hosted F-Droid repository.
 
-`Next.js 16` · `Supabase` · `Tailwind v4` · `Zod`
+`Flutter` · `Dart` · `Riverpod` · `Drift` · `just_audio`
 
 ---
 
@@ -210,7 +210,7 @@ Adaptive difficulty, instant feedback, full-length mock generation.
 
 [![Email](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvrajsarathe07@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/🤝_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-sarathe)
-[![Portfolio](https://img.shields.io/badge/🎨_Portfolio-Visit-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Yuvraj-Sarathe.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/🎨_Portfolio-Visit-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yuvraj-sarathe.github.io/Yuvraj-Sarathe/)
 
 ### 🎯 I'm open to:
 `Technical Feedback` · `Open-Source Collaboration` · `Security-Focused Projects` · `Internship Opportunities`
