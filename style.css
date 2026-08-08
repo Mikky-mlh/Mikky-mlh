@@ -1042,11 +1042,11 @@ body::before {
     background: linear-gradient(135deg, #c0d0c0 0%, #a0b8a8 100%);
 }
 
-.fc-top-motiveio {
-    background: linear-gradient(135deg, #3a2a1a 0%, #1a0f08 100%);
+.fc-top-sonicvault {
+    background: linear-gradient(135deg, #4a1a2a 0%, #1a0a12 100%);
 }
-[data-theme="manuscript"] .fc-top-motiveio {
-    background: linear-gradient(135deg, #d8c8b0 0%, #c8b098 100%);
+[data-theme="manuscript"] .fc-top-sonicvault {
+    background: linear-gradient(135deg, #d8b8c0 0%, #c8a0a8 100%);
 }
 
 [data-theme="alabaster"] .fc-top-1 {
@@ -1064,8 +1064,8 @@ body::before {
 [data-theme="alabaster"] .fc-top-gitissue {
     background: linear-gradient(135deg, #d1fae5 0%, #a7f3d0 100%);
 }
-[data-theme="alabaster"] .fc-top-motiveio {
-    background: linear-gradient(135deg, #fed7aa 0%, #fdba74 100%);
+[data-theme="alabaster"] .fc-top-sonicvault {
+    background: linear-gradient(135deg, #fce7f3 0%, #fbcfe8 100%);
 }
 
 .fc-top-certifier {

@@ -56,8 +56,8 @@ Portfolio/
 ├── resume.pdf              # Downloadable resume
 ├── project-detail-screens.html  # Project deep‑dive gallery
 ├── screens/                # Individual case study pages
-│   ├── motiveio.html
 │   ├── kdm-cli.html
+│   ├── sonic-vault.html
 │   ├── gitdeep.html
 │   ├── gitissue.html
 │   ├── flowforge.html
@@ -90,6 +90,6 @@ Portfolio/
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YNuu2jM7W)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvrajsarathe07@gmail.com)
 
-*Last Updated: June 2026*
+*Last Updated: August 2026*
 
 </div>
