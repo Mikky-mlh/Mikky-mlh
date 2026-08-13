@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/Yuvraj-Sarathe">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=800&lines=🛡️+B.Tech+Cyber+Security+%40+LNCT+Bhopal;📦+Production-First+Developer;🚀+Shipping+real+apps%2C+not+just+repos;☕+Powered+by+caffeine+%26+curiosity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=800&lines=🖥️+CSE+Student+-+1st+Year+%40+LNCT+Bhopal;🌱+Leveling+up+as+a+software+professional;📦+Production-First+Developer;🚀+Shipping+real+apps%2C+not+just+repos;☕+Powered+by+caffeine+%26+curiosity" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,13 +29,13 @@
 const yuvraj = {
   role: "Production-First Developer",
   location: "Bhopal, India 🇮🇳",
-  education: "B.Tech Cyber Security @ LNCT (2025-2029)",
+  education: "CSE Student, 1st Year @ LNCT (2025-2029)",
   
   philosophy: "Most devs write code. I ship software.",
   
   currentFocus: [
     "👿 Co-founder @Omnikon — building UnVibe & Certifier",
-    "🛡️ Going deep on cybersecurity fundamentals",
+    "🌱 Always pushing to be a better professional",
     "📚 Grinding DSA",
     "🌐 Mastering the React + TypeScript ecosystem"
   ],
@@ -213,7 +213,7 @@ Adaptive difficulty, instant feedback, full-length mock generation.
 [![Portfolio](https://img.shields.io/badge/🎨_Portfolio-Visit-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yuvraj-sarathe.github.io/Yuvraj-Sarathe/)
 
 ### 🎯 I'm open to:
-`Technical Feedback` · `Open-Source Collaboration` · `Security-Focused Projects` · `Internship Opportunities`
+`Technical Feedback` · `Open-Source Collaboration` · `Professional Growth` · `Internship Opportunities`
 
 ---
 
