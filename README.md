@@ -34,7 +34,7 @@ const yuvraj = {
   philosophy: "Most devs write code. I ship software.",
   
   currentFocus: [
-    "👿 Co-founder @Omnikon — building UnVibe & Certifier",
+    "👿 Co-founder @Omnikon",
     "🌱 Always pushing to be a better professional",
     "📚 Grinding DSA",
     "🌐 Mastering the React + TypeScript ecosystem"
@@ -87,16 +87,6 @@ Three-phase loop: **Decode** AI-generated code → **Rebuild** from memory → *
 
 ---
 
-### 🏅 Certifier — Contributor Badge Platform
-[![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Omnikon-Org/Certifier)
-
-> *Gamifies open-source contributions via automated PR tracking and tiered badges.*
-
-GitHub webhooks track merged PRs in real time and award badges across contribution categories (Front-End, Back-End, Docs, DevOps, etc.).
-
-`GitHub Webhooks` · `certifier.io` · `Open Source`
-
----
 
 ### 🔖 IssuesSwipe — Swipe to Contribute
 [![Live](https://img.shields.io/badge/🌐_Live-issues--swipe.vercel.app-6366F1?style=flat-square)](https://issues-swipe-eta.vercel.app/) [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Omnikon-Org/IssuesSwipe)
