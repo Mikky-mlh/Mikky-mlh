@@ -59,7 +59,7 @@ const yuvraj = {
 ### 👿 Co-founder — Omnikon
 [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Omnikon-Org)
 
-Building open-source developer tools. Shipped **UnVibe** (AI learning platform) and **Certifier** (contributor badge system). Leading full-stack development across the org.
+Building open-source developer tools. Shipped **UnVibe** (AI learning platform) and **IssuesSwipe** (Tinder-style issue discovery). Leading full-stack development across the org.
 
 `Next.js` · `TypeScript` · `FastAPI` · `GitHub Webhooks`
 
