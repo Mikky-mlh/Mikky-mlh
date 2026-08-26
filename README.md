@@ -109,37 +109,6 @@ Dual modes: Employer (hirability score) & Developer (mentorship plan). Career sl
 
 ---
 
-### 🐙 GitIssue — Cross-Repo Issue Search
-[![Live](https://img.shields.io/badge/🌐_Live-gitissue.vercel.app-6366F1?style=flat-square)](https://gitissue.vercel.app)
-
-> *Search and filter GitHub issues across all repos — entirely client-side.*
-
-Label tracking, language filters, customizable views. Powers the issue feed in **IssuesSwipe**.
-
-`React` · `TypeScript` · `GitHub API`
-
----
-
-### 🚀 FlowForge — Productivity OS
-[![Live](https://img.shields.io/badge/🌐_Live-flowforge.web.app-10b981?style=flat-square)](https://flowforge-f5e99.web.app) [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Yuvraj-Sarathe/FlowForge)
-
-> *I couldn't find a free productivity app that didn't suck. So I built one.*
-
-Tasks, Pomodoro, Kanban, habit tracking, offline-first PWA with QR device sync.
-
-`React 19` · `Firebase` · `IndexedDB`
-
----
-
-### 🎓 CATMATHS — AI CAT Prep
-[![Live](https://img.shields.io/badge/🌐_Live-catmaths.vercel.app-6366F1?style=flat-square)](https://catmaths.vercel.app)
-
-> *Free AI-powered quant prep for CAT aspirants.*
-
-Adaptive difficulty, instant feedback, full-length mock generation.  
-`Web` · `AI` · `Vercel`
-
----
 
 ## 📊 DSA & Problem Solving
 
