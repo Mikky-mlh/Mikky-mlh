@@ -59,7 +59,7 @@ const yuvraj = {
 ### 👿 Co-founder — Omnikon
 [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Omnikon-Org)
 
-Building open-source developer tools. Shipped **UnVibe** (AI learning platform) and **IssuesSwipe** (Tinder-style issue discovery). Leading full-stack development across the org.
+Building open-source developer tools. Shipped **IssuesSwipe** (Tinder-style issue discovery). Leading full-stack development across the org. Organized multiple events like hackathons that got over 200k+ impressions!
 
 `Next.js` · `TypeScript` · `FastAPI` · `GitHub Webhooks`
 
@@ -75,18 +75,6 @@ Led core development and CI/CD for a terminal-based Docker & Kubernetes monitori
 ---
 
 ## 🚀 Featured Projects
-
-### 🤖 UnVibe — AI Developer Learning Platform
-[![Live](https://img.shields.io/badge/🌐_Live-unvibe--omnikon.vercel.app-6366F1?style=flat-square)](https://unvibe-omnikon.vercel.app/) [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Omnikon-Org/UnVibe)
-
-> *Don't use AI as a crutch. Use it as a benchmark.*
-
-Three-phase loop: **Decode** AI-generated code → **Rebuild** from memory → **Defend** your decisions. Tracks comprehension vs. AI dependency via an IRS score.
-
-`Next.js 14` · `tRPC` · `FastAPI` · `Prisma` · `Turborepo`
-
----
-
 
 ### 🔖 IssuesSwipe — Swipe to Contribute
 [![Live](https://img.shields.io/badge/🌐_Live-issues--swipe.vercel.app-6366F1?style=flat-square)](https://issues-swipe-eta.vercel.app/) [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Omnikon-Org/IssuesSwipe)
