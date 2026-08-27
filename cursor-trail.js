@@ -10,7 +10,7 @@
   const el = document.createElement('div');
   el.style.cssText =
     'position:fixed;top:0;left:0;width:' + SIZE + 'px;height:' + SIZE + 'px;' +
-    'border-radius:50%;background:var(--accent);pointer-events:none;z-index:9999;' +
+    'border-radius:50%;background:var(--accent);pointer-events:none;z-index:var(--z-cursor);' +
     'transform:translate(-50%,-50%);will-change:transform;transition:background 0.3s;';
   document.body.appendChild(el);
 
@@ -20,10 +20,10 @@
     const opacity = 0.6 * (1 - i / COUNT);
     const s = SIZE * (1 - i / COUNT * 0.5);
     d.style.cssText =
-      'position:fixed;top:0;left:0;width:' + s + 'px;height:' + s + 'px;' +
-      'border-radius:50%;background:var(--accent);pointer-events:none;z-index:9998;' +
-      'transform:translate(-50%,-50%);opacity:' + opacity + ';' +
-      'will-change:transform,opacity;transition:background 0.3s,opacity 0.3s;';
+    'position:fixed;top:0;left:0;width:' + s + 'px;height:' + s + 'px;' +
+    'border-radius:50%;background:var(--accent);pointer-events:none;z-index:var(--z-cursor);' +
+    'transform:translate(-50%,-50%);opacity:' + opacity + ';' +
+    'will-change:transform,opacity;transition:background 0.3s,opacity 0.3s;';
     document.body.appendChild(d);
     trail.push({ el: d, x: 0, y: 0 });
   }

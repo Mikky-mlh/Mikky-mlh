@@ -4,10 +4,8 @@
    THEME SYSTEM
    ═══════════════════════════════════════════════════════════ */
 const THEMES = [
-    { id: 'obsidian',   label: 'Obsidian' },
     { id: 'phosphor',   label: 'Phosphor' },
     { id: 'manuscript', label: 'Manuscript' },
-    { id: 'alabaster',  label: 'Alabaster' },
 ];
 
 let currentThemeIdx = 0;
