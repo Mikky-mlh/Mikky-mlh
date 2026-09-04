@@ -109,17 +109,6 @@ Dual modes: Employer (hirability score) & Developer (mentorship plan). Career sl
 
 ---
 
-
-## 📊 DSA & Problem Solving
-
-[![DSA Log](https://img.shields.io/badge/DSA_in_Java-68_Unique_Solves-6366F1?style=for-the-badge)](https://github.com/Yuvraj-Sarathe/DSA-in-Java)
-[![LeetCode](https://img.shields.io/badge/LeetCode-76%25_Acceptance-FFA116?style=for-the-badge)](https://leetcode.com/u/Yuvraj_Sarathe/)
-[![Striver A2Z](https://img.shields.io/badge/Curriculum-Striver_A2Z-ef4444?style=for-the-badge)](https://github.com/Yuvraj-Sarathe/DSA-in-Java)
-
-*95+ implementations · Pattern-based problem solving · Daily consistency*
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -176,8 +165,6 @@ Dual modes: Employer (hirability score) & Developer (mentorship plan). Career sl
 <a href="https://github.com/sponsors/Yuvraj-Sarathe">
   <img src="https://img.shields.io/badge/❤️_Sponsor_Me-ff69b4?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor" />
 </a>
-
-*Even ₹80/month (~$1) makes a real difference. Thank you.* 🙏
 
 </div>
 
